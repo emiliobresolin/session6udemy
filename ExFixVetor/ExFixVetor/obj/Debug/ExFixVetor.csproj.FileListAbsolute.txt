@@ -1,0 +1,7 @@
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\sessao6\ExFixVetor\ExFixVetor\bin\Debug\ExFixVetor.exe.config
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\sessao6\ExFixVetor\ExFixVetor\bin\Debug\ExFixVetor.exe
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\sessao6\ExFixVetor\ExFixVetor\bin\Debug\ExFixVetor.pdb
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\sessao6\ExFixVetor\ExFixVetor\obj\Debug\ExFixVetor.csproj.AssemblyReference.cache
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\sessao6\ExFixVetor\ExFixVetor\obj\Debug\ExFixVetor.csproj.CoreCompileInputs.cache
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\sessao6\ExFixVetor\ExFixVetor\obj\Debug\ExFixVetor.exe
+D:\CERTIFICADOS\.NET FUNDAMENTALS\PROJETOS EM C#\PROJETOS UDEMY\sessao6\ExFixVetor\ExFixVetor\obj\Debug\ExFixVetor.pdb
